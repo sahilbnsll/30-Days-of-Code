@@ -22,7 +22,7 @@ public class Day06 {
                 System.out.print(S.charAt(k));
             }
                 }
-                            System.out.println("");
+                            System.out.println(""); //Line Change b/w Two Outputs
 
     }
         
