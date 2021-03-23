@@ -1,7 +1,8 @@
 import java.io.*;
 import java.util.*;
 
-public class Person {
+public class Day04
+{
     private int age;	
   
 	public Person(int initialAge) {

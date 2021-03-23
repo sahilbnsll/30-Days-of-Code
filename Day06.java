@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class Day06 {
 
     public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
@@ -22,7 +22,7 @@ public class Solution {
                 System.out.print(S.charAt(k));
             }
                 }
-                            System.out.println("");
+                            System.out.println(""); //Line Change b/w Two Outputs
 
     }
         

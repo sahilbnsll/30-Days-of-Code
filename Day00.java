@@ -3,7 +3,7 @@ import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
-public class Solution {
+public class Day00 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in); 
 		String inputString = scan.nextLine(); 
