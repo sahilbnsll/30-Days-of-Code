@@ -30,7 +30,7 @@ void computeDifference()
 
 } // End of Difference class
 
-public class Solution {
+public class Day14 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
